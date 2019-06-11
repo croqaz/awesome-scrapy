@@ -78,3 +78,9 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 * https://github.com/mjhea0/Scrapy-Samples
 * https://github.com/eloyz/reddit
 * https://github.com/geekan/scrapy-examples
+
+-----
+
+## License
+
+[Unlicense](LICENSE)
