@@ -83,4 +83,4 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 
 ## License
 
-[Unlicense](LICENSE)
+Unlicensed aka Public Domain. See [UNLICENSE](/LICENSE) for details.
