@@ -57,6 +57,7 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 * https://github.com/scrapinghub/extruct - Extract embedded metadata from HTML markup. Supports HTML Microdata, Microformats, JSON-LD and Facebook's Open Graph.
 * https://github.com/TeamHG-Memex/html-text - Deep extract text from HTML.
 * https://github.com/scrapinghub/js2xml - Converts Javascript code to an XML document. This makes it easy to extract data embedded in JavaScript code using XPath.
+* https://github.com/BurnzZ/scrapy-loader-upkeep - An alternative to the built-in ItemLoader of Scrapy which focuses on maintainability of fallback parsers.
 
 
 ## Frameworks
