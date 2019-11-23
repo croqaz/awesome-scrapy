@@ -1,4 +1,5 @@
-# Scrapy Awesomeness [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# Scrapy Awesomeness ![Awesome list](https://badgen.net/badge/icon/awesome?icon=awesome&color=purple&label)
 
 [Scrapy](https://scrapy.org) is a free application framework for crawling web sites and extracting structured data which can be used for a wide range of useful applications, like data mining, information processing, or historical archival.
 
@@ -75,10 +76,13 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 
 ## Scrapy examples
 
+<!-- TwoFold.js sort lines -->
+<sortLines>
 * https://doc.scrapy.org/en/latest/intro/examples.html
-* https://github.com/mjhea0/Scrapy-Samples
 * https://github.com/eloyz/reddit
 * https://github.com/geekan/scrapy-examples
+* https://github.com/mjhea0/Scrapy-Samples
+</sortLines>
 
 -----
 
