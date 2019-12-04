@@ -41,6 +41,8 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 * https://github.com/aivarsk/scrapy-proxies - Processes requests using a random proxy from list to avoid IP bans.
 * https://github.com/clemfromspace/scrapy-selenium - Handles javascript pages using selenium.
 * https://github.com/alecxe/scrapy-fake-useragent - Random User-Agent middleware based on fake-useragent.
+* https://github.com/croqaz/scrapy-count-filter - Stops requests after a number of pages, or items are scraped.
+* https://github.com/croqaz/scrapy-link-filter - Filter requests with "allow", or "deny" regex rules.
 * https://github.com/ArturGaspar/scrapy-delayed-requests - Downloader middleware that delays a request by a number of seconds.
 * https://github.com/povilasb/scrapy-html-storage - Scrapy downloader middleware that stores response HTMLs to disk.
 
@@ -91,6 +93,7 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 * https://github.com/eloyz/reddit
 * https://github.com/geekan/scrapy-examples
 * https://github.com/mjhea0/Scrapy-Samples
+* https://github.com/croqaz/scrapy-quotes
 
 </sortLines>
 
