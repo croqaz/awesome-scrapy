@@ -34,6 +34,7 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 
 ## Downloader middlewares
 
+* https://github.com/scrapinghub/scrapy-autoextract - Integrates ScrapingHub's AI Enabled Automatic Data Extraction into a Scrapy spider using a downloader middleware. The middleware adds the result of [AutoExtract](https://scrapinghub.com/autoextract) to response.meta['autoextract'] for consumption by the spider.
 * https://github.com/scrapy-plugins/scrapy-crawlera - Crawlera middleware for Scrapy.
 * https://github.com/scrapy-plugins/scrapy-splash - Scrapy & JavaScript integration through Splash.
 * https://github.com/TeamHG-Memex/scrapy-rotating-proxies - Use rotating proxies, check that they are alive and adjust crawling speed.
@@ -64,8 +65,14 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 
 ## Frameworks
 
+<!-- TwoFold.js sort lines -->
+<sortLines>
+
+* [AutoExtract](https://scrapinghub.com/autoextract) - AI Enabled Automatic Data Extraction. E-commerce and Article extraction at scale.
 * [Portia](https://github.com/scrapinghub/portia) - Visually scrape websites without any programming knowledge required. Annotate a web page to identify the data you wish to extract, Portia will understand based on these annotations how to scrape data from similar pages.
 * [Scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, Scrapely constructs a parser for all similar pages.
+
+</sortLines>
 
 
 ## Related Lists
@@ -79,10 +86,12 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 
 <!-- TwoFold.js sort lines -->
 <sortLines>
+
 * https://doc.scrapy.org/en/latest/intro/examples.html
 * https://github.com/eloyz/reddit
 * https://github.com/geekan/scrapy-examples
 * https://github.com/mjhea0/Scrapy-Samples
+
 </sortLines>
 
 -----
