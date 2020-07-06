@@ -58,7 +58,7 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 ## Helpful libraries
 
 * https://github.com/scrapinghub/dateparser - Parse localized dates in almost any string format and convert them to DateTime objects.
-* https://github.com/scrapinghub/price-parser Extract price amount and currency symbol from a raw text string.
+* https://github.com/scrapinghub/price-parser - Extract price amount and currency symbol from a raw text string.
 * https://github.com/scrapinghub/extruct - Extract embedded metadata from HTML markup. Supports HTML Microdata, Microformats, JSON-LD and Facebook's Open Graph.
 * https://github.com/TeamHG-Memex/html-text - Deep extract text from HTML.
 * https://github.com/scrapinghub/js2xml - Converts Javascript code to an XML document. This makes it easy to extract data embedded in JavaScript code using XPath.
@@ -75,6 +75,12 @@ To understand what these things mean, take a look at the [Scrapy Architecture Ov
 * [Scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, Scrapely constructs a parser for all similar pages.
 
 </sortLines>
+
+
+## External tools
+
+* https://github.com/realslimshanky/Spider-Sense - A browser extension to monitor your spiders deployed on Scrapy Cloud.
+* https://github.com/michael-shub/curl2scrapy - Tool to convert cURL syntax to the Scrapy request syntax (online version: https://michael-shub.github.io/curl2scrapy/).
 
 
 ## Related Lists
